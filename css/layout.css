@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 .col {
-  #float: left;
+  float: left;
   display: table-cell;
 }
 
