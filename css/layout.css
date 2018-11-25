@@ -23,5 +23,28 @@
 }
 
 /* Posititoning Classes */
+.col {
+  float: left;
+}
 
+.col-2 {
+  width: 68%;
+}
 
+.col-1 {
+  width: 31%;
+  margin-left: 8px;
+}
+
+.first {
+  margin-left: 0;
+}
+
+.featured-collection {
+  margin-top: 1%;
+}
+
+.column {
+  column-count: 3;
+  column-width: 30%;
+}
