@@ -25,6 +25,7 @@
 /* Posititoning Classes */
 .col {
   float: left;
+  display: table-cell;
 }
 
 .col-2 {
@@ -43,10 +44,6 @@
 .featured {
   margin: 2% 0;
 }
-
-/*.featured-collection {*/
-/*  margin-top: 1%;*/
-/*}*/
 
 .column {
   column-count: 3;
