@@ -25,7 +25,8 @@
 /* Posititoning Classes */
 .col {
   float: left;
-  display: table-cell;
+  padding-bottom: 200px;
+  margin-bottom: -200px;
 }
 
 .col-2 {
