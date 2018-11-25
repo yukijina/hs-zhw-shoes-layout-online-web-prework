@@ -23,6 +23,9 @@
 }
 
 /* Posititoning Classes */
+.sale {
+  width: 98%;
+}
 .featured {
   margin: 2% 0;
 }
