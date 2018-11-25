@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+.featured-box {
+  float: left;
+  height: 800px;
+}
 .col {
   float: left;
 }
