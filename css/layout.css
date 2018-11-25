@@ -23,5 +23,34 @@
 }
 
 /* Posititoning Classes */
+.sale {
+  width: 98%;
+}
+.featured {
+  margin: 2% 0;
+}
+.featured-box {
+  float: left;
+  height: 600px;
+}
+.col {
+  float: left;
+}
+.col-2 {
+  width: 65%;
+}
+.col-1 {
+  width: 32%;
+  margin-left: 1%;
+}
+
+.first {
+  margin-left: 0;
+}
 
 
+
+.column {
+  column-count: 3;
+  column-width: 30%;
+}
